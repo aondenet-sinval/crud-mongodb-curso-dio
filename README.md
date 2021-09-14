@@ -17,4 +17,6 @@ Exemplo de API em Node.js usando MongoDB e Mongoose
 ## Observações
 Este código faz parte do curso **_Desenvolvimento Back-end com Node.js_** na [Digital Inovation One](https://digitalinnovation.one).
 
+**Instrutor do curso: Henrique Schreiner.**
+
 
